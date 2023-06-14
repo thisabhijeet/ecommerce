@@ -6,8 +6,4 @@ Creating an Amazon type webapp
 
 # Tech Used
 
-NextJS
-Tailwind CSS
-Redux
-Firebase
-NextAuth
+NextJS, Tailwind CSS, Redux, Firebase, NextAuth
